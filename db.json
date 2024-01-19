@@ -1,28 +1,13 @@
 {
   "todos": [
     {
-      "id": 1,
-      "text": "Lari pagi",
-      "completed": true
+      "id": "6591",
+      "text": "Lari Pagi",
+      "completed": false
     },
     {
-      "0": {
-        "id": 1,
-        "text": "Lari pagi",
-        "completed": true
-      },
-      "1": {
-        "id": "7561",
-        "text": "Beli Buah",
-        "completed": false
-      },
-      "2": {
-        "id": "0b01",
-        "text": "Beli Kecapi",
-        "completed": false
-      },
-      "id": "7561",
-      "text": "Beli Buah",
+      "id": "d2a4",
+      "text": "Subuhan",
       "completed": false
     }
   ]
